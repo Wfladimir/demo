@@ -1,0 +1,33 @@
+# Compiled object files
+*.o
+*.so
+*.a
+
+# Binaries
+hello
+*.out
+*.exe
+
+# Editors and IDEs
+*~
+.*.swp
+.vscode/
+.idea/
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# Node / Python / general
+node_modules/
+__pycache__/
+*.pyc
+
+# Logs and archives
+*.log
+*.tar.gz
+*.zip
+
+# Build dirs
+build/
+dist/
